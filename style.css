@@ -10,6 +10,10 @@ h3{
     font-size: 30px;
 }
 
+h4{
+    color: orange;
+}
+
 .flexible-display{
     display: flex;
 }
@@ -49,4 +53,25 @@ span{
 
   .Dream-big p{
       padding-right: 130px;
+  }
+
+  .ss{
+       box-shadow: 5px 10px 70px #888888;
+       padding: 50px;
+       margin: 50px;
+  }
+
+  .Experience{
+      background-image: url(images/exp-bg.png);
+      background-repeat: no-repeat;
+      background-position: left;
+  }
+
+  #bod{
+      border-left: 10px solid orangered;
+      border-radius: 10px;
+  }
+  #back{
+      border-left: 10px solid blue;
+      border-radius: 10px;
   }
