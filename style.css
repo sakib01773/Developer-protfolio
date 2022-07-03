@@ -37,3 +37,16 @@ span{
     color: white;
     font-weight: 700;
   }
+
+  section{
+      margin-bottom: 100px;
+  }
+  .Dream-big{
+      background-image: url(images/dream-bg.png);
+      background-position: right;
+      background-repeat: no-repeat;
+  }
+
+  .Dream-big p{
+      padding-right: 130px;
+  }
